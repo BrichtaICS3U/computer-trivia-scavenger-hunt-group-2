@@ -1,12 +1,12 @@
 Ben:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. Input, Storage, Processing, Output
+2. a typographical device other than a letter or numeral (such as an asterisk), used to signal divisions in text or to replace letters in a euphemistically presented vulgar word.   (c) = ©
+3. handshaking is an automated process of negotiation that dynamically sets parameters of a communications channel established between two entities before normal communication over the channel begins.
+4. A home page or a start page is the initial or main web page of a website or a browser. The initial page of a website is sometimes called main page as well.   My homepage: https://www.nexusmods.com/skyrim/?
+5. Your handle is your online nickname or the name you go by in a chat room. Sometimes, a handle serves as a username, but certain Web fanatics even get their own domain name based on a handle.
+6. the gigantic machine credited with starting the modern computer age. 
+7. Ada Byron was a very important early mathematician and scientist
+8. "wafers" are purified silicon, sliced into discs
 Matt:
 9.
 10.
