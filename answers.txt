@@ -18,12 +18,12 @@ Matt:
 16.
 17.
 Jordan:
-18.
-19.
-20.
-21.
-22.
-23.
-24
-25.
+18.a piece of code that is capable corrupting the system or destroying data
+19.mouse monitor and keybored
+20.GUI = graphical user interface
+21.Dvorak layout puts the most often used keys on the home row and organizes keys to provide a more rhythmic typing experience.
+22.He invented the microprocessorAll microcomputers include one or more of his, yes all computers have a miroprosseser
+23.a unit of computing speed equal to one billion floating-point operations per second.
+24.project delphis is a humans trying to help dolphins significant discoveries in the scientific literature
+
 
