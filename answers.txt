@@ -8,15 +8,15 @@ Ben:
 7. Ada Byron was a very important early mathematician and scientist
 8. "wafers" are purified silicon, sliced into discs
 Matt:
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
+9.Bunny Suit, It's used to prevent dust, human skin and hair particles from entering the room's atmosphere
+10. Modem is short for Modulator-Demondulator, it enables a computer to transmit data over telephone or cable lines
+11. A bit is a binary digit, the smallest possible increment of data on a compute. There are 8 bits in a byte. There are 2 nibbles in a byte. A Byte is 8 bits. A Kilobyte is 8000 bits. A megabyte is 8000000 bits. A gigabyte is 8000000000 bits. And a Terabyte is 8000000000000 bits. 
+12. It was called Multiple Computer Networks And Intercomputer Communication
+13. 1989, The world wide web is older then me :P
+14. The first document was the United States Declaration of Independence
+15. A flash drive is a small, ultra-portable storage device, it has no moving parts. An example of a use for one would be wanting to transfer data from one computer to another, without the use of todays fast internet.
+16. 650 megabytes worth of data
+17. Douglas Engelbart invented the computer mouse.
 Jordan:
 18.
 19.
